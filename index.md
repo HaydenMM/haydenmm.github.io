@@ -1,4 +1,5 @@
 ## About
+My name is Hayden Moore and I am an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My background is focused in Software Engineering, Cybersecurity, and Artificial Intelligence.
 
 ## Invited Talks
 - **Moore, H.** “Updates on Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).
