@@ -2,7 +2,7 @@
 My name is Hayden Moore and I am an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute, AI Division. My background is focused in Software Engineering, Cybersecurity, and Artificial Intelligence. I have hopes to help shape the current field of AI Engineering in a positive direction.
 
 ## Education
-Carnegie Mellon University, M.S. Information Security, Policy and Management (May 2021)<br>
+- Carnegie Mellon University, M.S. Information Security, Policy and Management (May 2021)<br>
 Kent State University, B.S. DSci Software Development, Minor: Computer Science (December 2018)
 
 ## Experience
