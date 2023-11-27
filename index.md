@@ -12,7 +12,7 @@ Carnegie Mellon University: Teaching Assistant - Cryptography (95-745)<br>
 Paragram: Front-End Developer<br>
 
 ## Invited Talks
-- **Moore, H.** “Updates on Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).
+- **Moore, H.** “State-of-the-art Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).
   
 - **Moore, H.** “Data Pipelines for Object Detection at the Tactical Edge”. Invited talk presented at the *Software Engineering Institute AI Workforce Development Lunch Series*. (2023).
   
