@@ -1,5 +1,5 @@
 title: haydenmm.github.io
 description: Hayden Moore is a Software Developer from Pittsburgh PA
-show_downloads: true
+show_downloads: false
 google_analytics:
-theme: jekyll-theme-architect
+theme: jekyll-theme-tactile
