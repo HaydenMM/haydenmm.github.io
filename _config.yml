@@ -3,3 +3,11 @@ description: Software Developer from Pittsburgh PA
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Just the Docs on GitHub":
+    - "https://github.com/just-the-docs/just-the-docs"
