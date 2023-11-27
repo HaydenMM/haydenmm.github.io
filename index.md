@@ -1,5 +1,5 @@
 ## Hayden Moore
-![Hayden Moore Profile Pic](https://media.licdn.com/dms/image/D4E03AQFQ0p21q31b9g/profile-displayphoto-shrink_800_800/0/1697555051152?e=1706745600&v=beta&t=SjWJ6bqw-0Ho7RU6WNfgVmnrwhFeORqmJBM8k17UDUk =250x)
+![Hayden Moore Profile Pic](assets/profile.jpg)
 Hello, I am an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute with a background in Artificial Intelligence (AI), Cybersecurity, and Software Engineering. I have hopes to help shape the emerging field of AI Engineering in a positive direction.
 
 ### Education
