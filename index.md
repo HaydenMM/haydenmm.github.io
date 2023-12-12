@@ -15,13 +15,6 @@ Paragram: Front-End Developer
 - Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium (ICCRTS).
 <br>Proceedings: [https://internationalc2institute.org/28th-iccrts-best-paper-nominations](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
 
-## Invited Talks
-- **Moore, H.** “State-of-the-art Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).
-  
-- **Moore, H.** “Data Pipelines for Object Detection at the Tactical Edge”. Invited talk presented at the *Software Engineering Institute AI Workforce Development Lunch Series*. (2023).
-  
-- **Moore, H.** “Technical Underpinnings of Decentralized Blockchains”. Invited guest speaker for *Robert Beveridge's Cryptography course (95-745) at Carnegie Mellon University*. Pittsburgh, PA. (2021). 
-
 ## Publications
 
 - **Moore, H.** “Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty”. Paper and oral presentation at *28th annual International Command and Control Research and Technology Symposium (ICCRTS)*. Baltimore, MD. (2023)
@@ -40,3 +33,8 @@ Paragram: Front-End Developer
 
 - Graham, D., Heim, E., Helland, J., McCarthy, R., **Moore, H.**, Morales, J., Palat, J., Smith, C., Deusen, A., Widjaja, J., Wright, O., “AI Collaboration Supports U.S. Army Operations”. Technical report delivered at the *Software Engineering Institute’s (SEI) 2020 Research Review*. Pittsburgh, PA. (2020). 
 <br>Proceedings: [https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
+
+## Invited Talks
+- **Moore, H.** “State-of-the-art Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).  
+- **Moore, H.** “Data Pipelines for Object Detection at the Tactical Edge”. Invited talk presented at the *Software Engineering Institute AI Workforce Development Lunch Series*. (2023).  
+- **Moore, H.** “Technical Underpinnings of Decentralized Blockchains”. Invited guest speaker for *Robert Beveridge's Cryptography course (95-745) at Carnegie Mellon University*. Pittsburgh, PA. (2021). 
