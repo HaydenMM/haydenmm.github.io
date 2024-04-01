@@ -12,7 +12,9 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 - Paragram: Front-End Developer
 
 ## Awards
-- Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium (ICCRTS).
+- 2nd Place, CNN Interpretability Competition, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML (2024).
+<br>Proceedings: [https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
+- Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium, ICCRTS (2023).
 <br>Proceedings: [https://internationalc2institute.org/28th-iccrts-best-paper-nominations](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
 
 ## Publications
