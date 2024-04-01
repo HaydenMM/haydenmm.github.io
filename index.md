@@ -3,13 +3,13 @@
 Hello, I am an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute with a background in Artificial Intelligence (AI), Cybersecurity, and Software Engineering.
 
 ### Education
-Carnegie Mellon University, M.S. Information Security, Policy and Management (May 2021)<br>
-Kent State University, B.S. DSci Software Development, Minor: Computer Science (December 2018)
+- Carnegie Mellon University, M.S. Information Security, Policy and Management (May 2021)<br>
+- Kent State University, B.S. DSci Software Development, Minor: Computer Science (December 2018)
 
 ### Experience
-Software Engineering Institute: Associate Software Developer, Software Developer Intern, Cybersecurity Intern<br>
-Carnegie Mellon University: Teaching Assistant - Cryptography (95-745)<br>
-Paragram: Front-End Developer
+- Software Engineering Institute: Associate Software Developer, Software Developer Intern, Cybersecurity Intern<br>
+- Carnegie Mellon University: Teaching Assistant - Cryptography (95-745)<br>
+- Paragram: Front-End Developer
 
 ## Awards
 - Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium (ICCRTS).
