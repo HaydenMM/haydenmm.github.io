@@ -12,13 +12,13 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 - Paragram: Front-End Developer
 
 ## Awards
-- 2nd Place, CNN Interpretability Competition, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML (2024).
+- 2nd Place, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML: CNN Interpretability Competition (2024).
 <br>Proceedings: [https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
 - Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium, ICCRTS (2023).
 <br>Proceedings: [https://internationalc2institute.org/28th-iccrts-best-paper-nominations](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
 
 ## Publications
-- Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell “The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability”. Paper and oral presentation at *2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*. Toronto, Canada. (2024)
+- Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell “The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability”. Follow up report for *2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*. Toronto, Canada. (2024)
 <br>arXiv: [https://arxiv.org/abs/2312.00269](https://arxiv.org/abs/2404.02949)
 
 - **Hayden Moore** “Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty”. Paper and oral presentation at *28th annual International Command and Control Research and Technology Symposium (ICCRTS)*. Baltimore, MD. (2023)
@@ -42,4 +42,4 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 
 - **Moore, H.** “Data Pipelines for Object Detection at the Tactical Edge”. Invited talk presented at the *Software Engineering Institute AI Workforce Development Lunch Series*. (2023).  
 
-- **Moore, H.** “Technical Underpinnings of Decentralized Blockchains”. Invited guest speaker for *Robert Beveridge's Cryptography course (95-745) at Carnegie Mellon University*. Pittsburgh, PA. (2021). 
+- **Moore, H.** “Technical Underpinnings of Decentralized Blockchains”. Invited guest speaker for *Robert Beveridge's Cryptography course (95-745) at Carnegie Mellon University*. Pittsburgh, PA. (2021).
