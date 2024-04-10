@@ -22,7 +22,7 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 
 ## Publications
 - Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell “The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability”. Follow up report for *2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*. Toronto, Canada. (2024)
-<br>arXiv: [https://arxiv.org/abs/2312.00269](https://arxiv.org/abs/2404.02949)
+<br>arXiv: [https://arxiv.org/abs/2404.02949](https://arxiv.org/abs/2404.02949)
 
 - **Hayden Moore** “Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty”. Paper and oral presentation at *28th annual International Command and Control Research and Technology Symposium (ICCRTS)*. Baltimore, MD. (2023)
 <br>arXiv: [https://arxiv.org/abs/2312.00269](https://arxiv.org/abs/2312.00269)
