@@ -41,6 +41,7 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 <br>Proceedings: [https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
 
 ## Invited Talks
+- **Hayden Moore** "CNN Interpretability: Competition Results". Invited to speak about my teams submission for the competiiton at *IEEE SaTML'24, University of Toronto, CA*. (2024).
 - **Moore, H.** “State-of-the-art Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).  
 
 - **Moore, H.** “Data Pipelines for Object Detection at the Tactical Edge”. Invited talk presented at the *Software Engineering Institute AI Workforce Development Lunch Series*. (2023).  
