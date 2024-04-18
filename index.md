@@ -21,10 +21,10 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 <br>Proceedings: [https://internationalc2institute.org/28th-iccrts-best-paper-nominations](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
 
 ## Publications
-- Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell “The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability”. Follow up report for *2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*. Toronto, Canada. (2024)
+- Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell “The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability”. Follow-up report for *2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*. Toronto, Canada. (2024)
 <br>arXiv: [https://arxiv.org/abs/2404.02949](https://arxiv.org/abs/2404.02949)
 
-- **Hayden Moore** “Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty”. Paper and oral presentation at *28th annual International Command and Control Research and Technology Symposium (ICCRTS)*. Baltimore, MD. (2023)
+- **Hayden Moore** “Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty”. Paper and oral presentation at *The 28th annual International Command and Control Research and Technology Symposium (ICCRTS)*. Baltimore, MD. (2023)
 <br>arXiv: [https://arxiv.org/abs/2312.00269](https://arxiv.org/abs/2312.00269)
 
 - Sinha, A., **Moore, H.**, VanHoudnos N. “Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models”. Poster presented at *Conference on Applied Machine Learning for Information Security (CAMLIS)*. Arlington, VA. (2023)
@@ -41,7 +41,7 @@ Hello, I am an Associate Software Developer at Carnegie Mellon University's Soft
 <br>Proceedings: [https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
 
 ## Invited Talks
-- **Hayden Moore** "CNN Interpretability: Competition Results". Invited to speak about my teams submission for the competiiton at *IEEE SaTML'24, University of Toronto, CA*. (2024).
+- **Hayden Moore** "CNN Interpretability: Competition Results". Invited to speak about my team's submission for the competition at *IEEE SaTML'24, University of Toronto, CA*. (2024).
 - **Moore, H.** “State-of-the-art Ship Detection Algorithms”. Invited talk presented at the *Software Engineering Institute and Office of Naval Research Summit*. (2023).  
 
 - **Moore, H.** “Data Pipelines for Object Detection at the Tactical Edge”. Invited talk presented at the *Software Engineering Institute AI Workforce Development Lunch Series*. (2023).  
