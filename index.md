@@ -5,13 +5,14 @@
 <a href="mailto:hmmoore@sei.cmu.edu.com">Work Email</a> |
 <a href="mailto:haydenmm14@gmail.com">Personal Email</a>
 <br><br>
-Hello, I am an Incoming PhD Student @ Penn State (CSE) and an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research is focused in the fields of Adversarial Machine Learning, XAI, and Interpretable AI.
+Hello, I am an Incoming PhD Student at Penn State (CSE) and an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research is focused in the fields of Adversarial Machine Learning, XAI, and Interpretable AI.
 
-### Education
+## Education
+- Penn State University, Ph.D. Computer Science & Engineering (Incoming Student Fall'24)<br>
 - Carnegie Mellon University, M.S. Information Security, Policy and Management (May 2021)<br>
 - Kent State University, B.S. DSci Software Development, Minor: Computer Science (December 2018)
 
-### Experience
+## Experience
 - Software Engineering Institute: Associate Software Developer, Software Developer Intern, Cybersecurity Intern<br>
 - Carnegie Mellon University: Teaching Assistant - Cryptography (95-745)<br>
 - Paragram: Front-End Developer
