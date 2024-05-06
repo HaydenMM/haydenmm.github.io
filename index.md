@@ -1,8 +1,11 @@
-![Hayden Moore Profile Pic](assets/profile.jpg)<br>
-Hello, I am an Incoming PhD Student @ Penn State (CSE) and an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research is focused in the fields of Adversarial Machine Learning, XAI, and Interpretable AI.
+![Hayden Moore Profile Pic](assets/profile.jpg)
 <br>
-[Google Scholar](https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en[&oi=ao)
-[LinkedIn](https://www.linkedin.com/in/hayden-moore/)
+[Google-Scholar](https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en[&oi=ao) | 
+[LinkedIn](https://www.linkedin.com/in/hayden-moore/) | 
+[Work Email](hmmoore@sei.cmu.edu.com) | 
+[Personal Email](haydenmm14@gmail.com)
+<br><br>
+Hello, I am an Incoming PhD Student @ Penn State (CSE) and an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research is focused in the fields of Adversarial Machine Learning, XAI, and Interpretable AI.
 
 ### Education
 - Carnegie Mellon University, M.S. Information Security, Policy and Management (May 2021)<br>
