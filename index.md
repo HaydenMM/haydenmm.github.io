@@ -1,5 +1,5 @@
 ![Hayden Moore Profile Pic](assets/profile.jpg)<br>
-Hello, I am an Incoming PhD Student @ Penn State (EECS) and an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research is focused in the fields of Adversarial Machine Learning, XAI, and Interpretable AI.
+Hello, I am an Incoming PhD Student @ Penn State (CSE) and an Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research is focused in the fields of Adversarial Machine Learning, XAI, and Interpretable AI.
 <br>
 [Google Scholar](https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en[&oi=ao)
 [LinkedIn](https://www.linkedin.com/in/hayden-moore/)
