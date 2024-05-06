@@ -20,19 +20,23 @@ Hello, I am an Incoming PhD Student at Penn State (CSE) and an Associate Softwar
 ## Awards
 - 2nd Place, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML: CNN Interpretability Competition (2024).
 <br>Proceedings: [https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
+<br><img src="assets/satml_2024.png" alt="SaTML 2024 2nd Place Award" height="250">
 - Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium, ICCRTS (2023).
 <br>Proceedings: [https://internationalc2institute.org/28th-iccrts-best-paper-nominations](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
+<br><img src="assets/iccrts_best_paper_2023.png" alt="ICCRTS 2023 list of best paper nominations" height="250">
 
 ## Publications
 - Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell “The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability”. Follow-up report for *2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*. Toronto, Canada. (2024)
 <br>arXiv: [https://arxiv.org/abs/2404.02949](https://arxiv.org/abs/2404.02949)
-
+<br><img src="assets/feud_2024.png" alt="FEUD results from SaTML 2024 competition" height="250">
 - **Hayden Moore** “Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty”. Paper and oral presentation at *The 28th annual International Command and Control Research and Technology Symposium (ICCRTS)*. Baltimore, MD. (2023)
 <br>arXiv: [https://arxiv.org/abs/2312.00269](https://arxiv.org/abs/2312.00269)
+<br><img src="assets/iccrts_2023.png" alt="ICCRTS 2023 Best Paper Nomination" height="250">
 
 - Sinha, A., **Moore, H.**, VanHoudnos N. “Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models”. Poster presented at *Conference on Applied Machine Learning for Information Security (CAMLIS)*. Arlington, VA. (2023)
 <br>Proceedings: [https://www.camlis.org/](https://www.camlis.org/)
 <br>PDF: [https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf](https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf)
+<br><img src="assets/camlis_2023.png" alt="CAMLIS 2023 Poster Session" height="250">
 
 - Sinha, A., **Moore, H.**, VanHoudnos, N. “Leveraging Adversarial Machine Learning Techniques to Perform Query-Access Fairness Evaluations”. Technical report delivered at the *Software Engineering Institute’s (SEI) 2023 Research Review*. Pittsburgh, PA. (2023). 
 <br>Proceedings: [https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/](https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/research-review-article.cfm?customel_datapageid_326381=495673)
