@@ -18,6 +18,7 @@ Hello, I am an Incoming PhD Student at Penn State (CSE) and an Associate Softwar
 - Paragram: Front-End Developer
 
 ## Awards
+- SEI Doctoral Scholarship Awarded to pursue a PhD in Computer Science at Penn State University (2024).
 - 2nd Place, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML: CNN Interpretability Competition (2024).
 <br>Proceedings: [https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
 - Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium, ICCRTS (2023).
