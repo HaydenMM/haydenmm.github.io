@@ -98,6 +98,117 @@ strong {
   border-top: 1px solid #e8e8e8;
 }
 
+/* Content styling */
+.post-content {
+  margin-bottom: 30px;
+}
+
+/* Lists styling */
+ul, ol {
+  margin-left: 30px;
+}
+
+/* Publication entries */
+.publication-entry {
+  margin-bottom: 25px;
+  padding-bottom: 25px;
+  border-bottom: 1px dashed #ddd;
+}
+
+.publication-entry:last-child {
+  border-bottom: none;
+}
+
+.publication-title {
+  font-weight: 600;
+  color: var(--primary-color);
+}
+
+.publication-authors {
+  font-style: italic;
+}
+
+.publication-venue {
+  color: #666;
+}
+
+/* Project entries */
+.project-entry {
+  margin-bottom: 30px;
+  padding: 20px;
+  background-color: var(--light-bg);
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+.project-title {
+  margin-top: 0;
+  color: var(--secondary-color);
+}
+
+/* Awards and honors */
+.award {
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #fff9f9;
+  border-left: 3px solid var(--accent-color);
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  border: 1px solid #e1e4e8;
+}
+
+/* Table styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table th, table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+}
+
+table th {
+  background-color: var(--light-bg);
+  font-weight: 600;
+}
+
+/* Social links */
+.social-links {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.social-links a {
+  margin: 0 10px;
+  font-size: 24px;
+}
+
+/* Contact info */
+.contact-info {
+  margin: 20px 0;
+  padding: 15px;
+  background-color: var(--light-bg);
+  border-radius: 5px;
+}
+
+.contact-method {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-method i {
+  margin-right: 10px;
+  color: var(--secondary-color);
+}
+
 /* Responsive adjustments */
 @media screen and (max-width: 800px) {
   .profile-pic {
@@ -109,3 +220,44 @@ strong {
   }
   
   h2 {
+    font-size: 22px;
+  }
+  
+  .site-nav {
+    position: absolute;
+    top: 9px;
+    right: 15px;
+    background-color: white;
+    border: 1px solid #e8e8e8;
+    border-radius: 5px;
+    text-align: right;
+  }
+  
+  .publication-image, .project-image {
+    margin: 10px auto;
+  }
+}
+
+/* Print styling */
+@media print {
+  body {
+    font-size: 12pt;
+  }
+  
+  .site-header, .site-footer, .social-links {
+    display: none;
+  }
+  
+  a {
+    color: var(--dark-text);
+    text-decoration: none;
+  }
+  
+  h1, h2, h3 {
+    page-break-after: avoid;
+  }
+  
+  img {
+    max-width: 500px !important;
+  }
+}
