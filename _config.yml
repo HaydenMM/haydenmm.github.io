@@ -1,4 +1,38 @@
 title: Hayden M. Moore
-description: "Incoming PhD Student | Computer Science & Engineering at Penn State University"
+description: "PhD Student in Computer Science & Engineering | AI Researcher | Penn State University"
 show_downloads: false
 theme: minima
+
+# Minima theme specific options
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    - { platform: github,         user_url: "https://github.com/HaydenMM" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en[&oi=ao" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/hayden-moore/" }
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site navigation
+header_pages:
+  - publications.md
+  - projects.md
+  - experience.md
+  - contact.md
+
+# Google Analytics
+# google_analytics: UA-XXXXXXXX-X
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .DS_Store
