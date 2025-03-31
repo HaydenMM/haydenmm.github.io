@@ -8,6 +8,8 @@ permalink: /publications/
 
 ## Conference Papers & Competitions
 
+---
+
 ### 2024
 
 **The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability**  
@@ -48,7 +50,11 @@ Arlington, VA, 2023
 
 ![CAMLIS 2023 Poster Session](assets/camlis_2023.png){: .publication-image}
 
+---
+
 ## Technical Reports
+
+---
 
 ### 2023
 
@@ -58,6 +64,8 @@ Sinha, A., **Moore, H.**, VanHoudnos, N.
 Pittsburgh, PA, 2023  
 [SEI Research Review](https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/research-review-article.cfm?customel_datapageid_326381=495673)
 
+---
+
 ### 2022
 
 **Juneberry Version 0.5 Simulates Attacks on Machine Learning Systems**  
@@ -65,6 +73,8 @@ Mellinger, A., Brown, B., Churilla, M., Gallagher, S., Helland, J., Justice, D.,
 *Software Engineering Institute's (SEI) 2022 Research Review*  
 Pittsburgh, PA, 2022  
 [SEI Year in Review](https://www.sei.cmu.edu/publications/annual-reviews/2022-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=494000)
+
+---
 
 ### 2020
 
@@ -74,20 +84,33 @@ Graham, D., Heim, E., Helland, J., McCarthy, R., **Moore, H.**, Morales, J., Pal
 Pittsburgh, PA, 2020  
 [SEI Year in Review](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
 
+---
+
 ## Invited Talks
+
+---
 
 ### 2024
 **CNN Interpretability: Competition Results**  
 *IEEE SaTML'24, University of Toronto, CA*, 2024
 
+---
+
 ### 2023
 **State-of-the-art Ship Detection Algorithms**  
 *Software Engineering Institute and Office of Naval Research Summit*, 2023
 
+---
+
+### 2023
 **Data Pipelines for Object Detection at the Tactical Edge**  
 *Software Engineering Institute AI Workforce Development Lunch Series*, 2023
+
+---
 
 ### 2021
 **Technical Underpinnings of Decentralized Blockchains**  
 Guest speaker for Robert Beveridge's Cryptography course (95-745) at Carnegie Mellon University  
 Pittsburgh, PA, 2021
+
+---
