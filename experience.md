@@ -8,6 +8,8 @@ permalink: /experience/
 
 ## Education
 
+---
+
 #### Penn State University
 **Ph.D. Computer Science & Engineering**  
 *2024 - Present*
@@ -30,6 +32,8 @@ permalink: /experience/
 ---
 
 ## Professional Experience
+
+---
 
 #### Software Engineering Institute, Carnegie Mellon University
 **Associate Software Developer**  
@@ -70,13 +74,3 @@ permalink: /experience/
 
 ---
 
-## Awards & Honors
-
-- **SEI Doctoral Scholarship** (2024)
-  Awarded to pursue a PhD in Computer Science at Penn State University
-  
-- **2nd Place, IEEE SaTML CNN Interpretability Competition** (2024)
-  [Competition Details](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
-  
-- **Best Paper Nominee, 28th annual ICCRTS** (2023)
-  [Nomination Information](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
