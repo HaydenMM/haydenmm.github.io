@@ -8,7 +8,7 @@ permalink: /experience/
 
 ## Education
 
-### Penn State University
+#### Penn State University
 **Ph.D. Computer Science & Engineering**  
 *2024 - Present*
 - SEI Doctoral Scholarship Recipient (2024)
@@ -16,14 +16,14 @@ permalink: /experience/
 
 ---
 
-### Carnegie Mellon University
+#### Carnegie Mellon University
 **M.S. Information Security, Policy and Management**  
 *Graduated: May 2021*
 - Teaching Assistant for Cryptography (95-745)
 
 ---
 
-### Kent State University
+#### Kent State University
 **B.S. DSci Software Development, Minor: Computer Science**  
 *Graduated: December 2018*
 
@@ -31,7 +31,7 @@ permalink: /experience/
 
 ## Professional Experience
 
-### Software Engineering Institute, Carnegie Mellon University
+#### Software Engineering Institute, Carnegie Mellon University
 **Associate Software Developer**  
 *Current Position*
 - Leading research in interpretable AI and adversarial machine learning
@@ -40,7 +40,7 @@ permalink: /experience/
 
 ---
 
-### Software Engineering Institute, Carnegie Mellon University
+#### Software Engineering Institute, Carnegie Mellon University
 **Software Developer Intern**  
 *Previous Role*
 - Worked on computer vision applications for tactical environments
@@ -48,7 +48,7 @@ permalink: /experience/
 
 ---
 
-### Software Engineering Institute, Carnegie Mellon University
+#### Software Engineering Institute, Carnegie Mellon University
 **Cybersecurity Intern**  
 *Previous Role*
 - Contributed to research on blockchain security
@@ -56,14 +56,14 @@ permalink: /experience/
 
 --- 
 
-### Carnegie Mellon University
+#### Carnegie Mellon University
 **Teaching Assistant - Cryptography (95-745)**  
 - Assisted with course instruction and student support
 - Led sessions on blockchain technology and cryptographic principles
 
 ---
 
-### Paragram
+#### Paragram
 **Front-End Developer**  
 - Developed responsive web applications
 - Implemented user interface designs and interactive features
