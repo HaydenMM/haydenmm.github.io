@@ -20,7 +20,6 @@ plugins:
 # Site navigation
 header_pages:
   - publications.md
-  - projects.md
   - experience.md
   - contact.md
 
