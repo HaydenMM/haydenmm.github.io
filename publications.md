@@ -17,6 +17,7 @@ Toronto, Canada, 2024
 [arXiv:2404.02949](https://arxiv.org/abs/2404.02949)
 
 ![SaTML 2024 Competition FEUD](assets/feud_2024.png){: .publication-image}
+
 **🏆 Competition Achievement:**  
 2nd Place, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML: CNN Interpretability Competition (2024)  
 [Competition Website](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
