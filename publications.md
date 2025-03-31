@@ -16,8 +16,7 @@ Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon,
 Toronto, Canada, 2024  
 [arXiv:2404.02949](https://arxiv.org/abs/2404.02949)
 
-<img src="assets/feud_2024.png" alt="feud 2024 Competition" width="500"/>
-
+![SaTML 2024 Competition FEUD](assets/feud_2024.png){: .publication-image}
 **🏆 Competition Achievement:**  
 2nd Place, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML: CNN Interpretability Competition (2024)  
 [Competition Website](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
@@ -32,7 +31,7 @@ Toronto, Canada, 2024
 Baltimore, MD, 2023  
 [arXiv:2312.00269](https://arxiv.org/abs/2312.00269)
 
-<img src="assets/iccrts_2023.png" alt="ICCRTS 2023 Best Paper Nomination" width="500"/>
+![ICCRTS 2023 Best Paper Nomination](assets/iccrts_2023.png){: .publication-image}
 
 **🏆 Award:**  
 Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium (ICCRTS)  
@@ -46,8 +45,7 @@ Sinha, A., **Moore, H.**, VanHoudnos N.
 Arlington, VA, 2023  
 [Conference Website](https://www.camlis.org/) | [PDF](https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf)
 
-<img src="assets/camlis_2023.png" alt="CAMLIS 2023 Poster Session" width="500"/>
-
+![CAMLIS 2023 Poster Session](assets/camlis_2023.png){: .publication-image}
 
 ## Technical Reports
 
