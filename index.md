@@ -30,7 +30,6 @@ PhD Student at Penn State (CSE) and Associate Software Developer at Carnegie Mel
 - Explainable AI (XAI)
 - Interpretable AI
 - Adversarial Machine Learning
-- Computer Vision
 
 ---
 
