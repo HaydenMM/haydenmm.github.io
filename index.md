@@ -7,7 +7,7 @@ title: Home
 
 # Hayden M. Moore
 
-PhD Student at Penn State (CSE) and Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research focuses on Neurosymbolic Learning, XAI, Interpretable AI, and Adversarial Machine Learning.
+PhD Student at Penn State (CSE) and Associate Software Developer at Carnegie Mellon University's Software Engineering Institute. My research focuses on Neurosymbolic Learning, XAI, and Interpretable AI for Formal Method Verification.
 
 [Google Scholar](https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en[&oi=ao) | 
 [LinkedIn](https://www.linkedin.com/in/hayden-moore/) | 
@@ -17,6 +17,7 @@ PhD Student at Penn State (CSE) and Associate Software Developer at Carnegie Mel
 
 ## Recent Highlights
 
+- 📄 Paper Accepted, AAAI 2026, Logical and Symbolic Reasoning in Language Models (2026)
 - 🏆 2nd Place, IEEE Conference on SaTML: CNN Interpretability Competition (2024)
 - 📄 Best Paper Nominee at the 28th annual ICCRTS (2023)
 - 🎓 SEI Doctoral Scholarship for PhD at Penn State University (2024)
@@ -29,7 +30,7 @@ PhD Student at Penn State (CSE) and Associate Software Developer at Carnegie Mel
 - Neurosymbolic Learning
 - Explainable AI (XAI)
 - Interpretable AI
-- Adversarial Machine Learning
+- Secure AI
 
 ---
 
