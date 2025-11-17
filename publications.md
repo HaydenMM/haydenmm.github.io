@@ -8,6 +8,12 @@ permalink: /publications/
 
 ## Conference Papers & Competitions
 
+### 2025
+**Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing**  
+**Hayden Moore**, Asfahan Shah
+*Logical and Symbolic Reasoning in Language Models @ AAAI 2026* 
+Singapore, 2026
+[arXiv:2404.02949](https://placeholder.com)
 ---
 
 ### 2024
