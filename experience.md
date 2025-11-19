@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Experience
+title: Education & Experience
 permalink: /experience/
 ---
-
-# Experience & Education
 
 ## Education
 
