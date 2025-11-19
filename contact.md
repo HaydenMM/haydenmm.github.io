@@ -4,8 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-# Contact Information
-
 I'm always interested in research collaborations, speaking opportunities, or discussions about AI interpretability, explainability, and security. Feel free to reach out through any of the following channels:
 
 ## Email
