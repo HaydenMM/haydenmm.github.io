@@ -7,7 +7,8 @@ permalink: /contact/
 I'm always interested in research collaborations, speaking opportunities, or discussions about AI interpretability, explainability, and security. Feel free to reach out through any of the following channels:
 
 ## Email
-- **Academic/Work:** [hmmoore@sei.cmu.edu](mailto:hmmoore@sei.cmu.edu)
+- **Work:** [hmmoore@sei.cmu.edu](mailto:hmmoore@sei.cmu.edu)
+- **Academic** [hmm5731@psu.edu](mailto:hmm5731@psu.edu)
 - **Personal:** [haydenmm14@gmail.com](mailto:haydenmm14@gmail.com)
 
 ## Professional Profiles
