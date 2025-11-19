@@ -16,7 +16,7 @@ permalink: /publications/
 **Hayden Moore**, Asfahan Shah  
 *Logical and Symbolic Reasoning in Language Models @ AAAI 2026*  
 Singapore, 2026  
-[placeholder](https://placeholder.com)
+[arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
 
 ----------------------
 
