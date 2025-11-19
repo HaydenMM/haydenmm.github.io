@@ -16,7 +16,7 @@ permalink: /publications/
 **Hayden Moore**, Asfahan Shah  
 *Logical and Symbolic Reasoning in Language Models @ AAAI 2026*  
 Singapore, 2026  
-[arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
+📄 [arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
 
 ----------------------
 
@@ -26,7 +26,7 @@ Singapore, 2026
 Stephen Casper, Jieun Yun, Joonhyuk Baek, Yeseong Jung, Minhwan Kim, Kiwan Kwon, Saerom Park, **Hayden Moore**, David Shriver, Marissa Connor, Keltin Grimes, Angus Nicolson, Arush Tagade, Jessica Rumbelow, Hieu Minh Nguyen, Dylan Hadfield-Menell  
 *Follow-up report for 2nd IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)*  
 Toronto, Canada, 2024  
-[arXiv:2404.02949](https://arxiv.org/abs/2404.02949)
+📄 [arXiv:2404.02949](https://arxiv.org/abs/2404.02949)
 
 
 **🏆 Competition Achievement:**  
@@ -41,7 +41,7 @@ Toronto, Canada, 2024
 **Hayden Moore**  
 *The 28th annual International Command and Control Research and Technology Symposium (ICCRTS)*  
 Baltimore, MD, 2023  
-[arXiv:2312.00269](https://arxiv.org/abs/2312.00269)
+📄 [arXiv:2312.00269](https://arxiv.org/abs/2312.00269)
 
 
 **🏆 Award:**  
