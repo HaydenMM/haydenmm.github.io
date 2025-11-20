@@ -3,8 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
-## Publications
  
 Hayden Moore, Asfahan Shah (2025). Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing. To appear in *Logical and Symbolic Reasoning in Language Models @ AAAI 2026* 📄 [arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
 
@@ -22,8 +20,6 @@ Mellinger, A., Brown, B., Churilla, M., Gallagher, S., Helland, J., Justice, D.,
 
 Graham, D., Heim, E., Helland, J., McCarthy, R., Moore, H., Morales, J., Palat, J., Smith, C., Deusen, A., Widjaja, J., Wright, O. (2020). AI Collaboration Supports U.S. Army Operations. *Software Engineering Institute's (SEI) 2020 Research Review* 📄 [SEI Year in Review](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
 
-## Invited Talks
-
 **CNN Interpretability: Competition Results**  
 *IEEE SaTML'24, University of Toronto, CA*, 2024
 
@@ -37,8 +33,6 @@ Graham, D., Heim, E., Helland, J., McCarthy, R., Moore, H., Morales, J., Palat, 
 Guest speaker for Robert Beveridge's Cryptography course (95-745) at Carnegie Mellon University  
 Pittsburgh, PA, 2021
 
-## Awards
-
 **🏆 Competition Achievement:**  
 2nd Place, IEEE Conference on Secure and Trustworthy Machine Learning, SaTML: CNN Interpretability Competition (2024)  
 [Competition Website](https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/)
@@ -46,6 +40,3 @@ Pittsburgh, PA, 2021
 **🏆 Award:**  
 Best Paper Nominee for the 28th annual International Command and Control Research and Technology Symposium (ICCRTS)  
 [Best Paper Nominations](https://internationalc2institute.org/28th-iccrts-best-paper-nominations)
-
-
----
