@@ -16,7 +16,7 @@ Sinha, A., Moore, H., VanHoudnos N. (2023). Understanding Bias Transfer from Fou
 
 Hayden Moore (2023). Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty. *The 28th annual International Command and Control Research and Technology Symposium (ICCRTS)* 📄 [arXiv:2312.00269](https://arxiv.org/abs/2312.00269)
 
-Sinha, A., **Moore, H.**, VanHoudnos, N. (2023). Leveraging Adversarial Machine Learning Techniques to Perform Query-Access Fairness Evaluations. *Software Engineering Institute's (SEI) 2023 Research Review* 📄 [SEI Research Review](https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/research-review-article.cfm?customel_datapageid_326381=495673)
+Sinha, A., Moore, H., VanHoudnos, N. (2023). Leveraging Adversarial Machine Learning Techniques to Perform Query-Access Fairness Evaluations. *Software Engineering Institute's (SEI) 2023 Research Review* 📄 [SEI Research Review](https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/research-review-article.cfm?customel_datapageid_326381=495673)
 
 Mellinger, A., Brown, B., Churilla, M., Gallagher, S., Helland, J., Justice, D., Mittermeier, D., Moore, H., Nichols, W., Shaw, W., Sinha, A., VanHoudnos, N., Widjaja, J., Winski, N., Zucca, J. (2022). Juneberry Version 0.5 Simulates Attacks on Machine Learning Systems. *Software Engineering Institute's (SEI) 2022 Research Review* 📄 [SEI Year in Review](https://www.sei.cmu.edu/publications/annual-reviews/2022-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=494000)
 
