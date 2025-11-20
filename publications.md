@@ -5,9 +5,7 @@ permalink: /publications/
 ---
 
 ## Publications
-
-
----- 
+ 
 Hayden Moore, Asfahan Shah (2025). Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing. To appear in *Logical and Symbolic Reasoning in Language Models @ AAAI 2026* 📄 [arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
 
 
