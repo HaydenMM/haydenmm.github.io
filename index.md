@@ -16,38 +16,22 @@ Research focus: Neurosymbolic Learning, Interpretable AI, AI Security, and Forma
 [LinkedIn](https://www.linkedin.com/in/hayden-moore/) | 
 [GitHub](https://github.com/HaydenMM)
 
----
-
-## Research Interests
-
-- Neurosymbolic Learning  
-- Interpretability & Mechanistic Explainability  
-- AI Security & Backdoor Detection  
-- Formal Methods for AI Verification  
-
----
-
 ## Publications
 
-### 2026
+﻿﻿**Reese, K. W., Kulp-McDowall, T., Majurski, M., et al., Moore, H.** (2026). \
+*Trojans in Artificial Intelligence (TrojAI) Final Report.* \
+Intelligence Advanced Research Projects Activity (IARPA).
+[arXiv:2602.07152](https://arxiv.org/abs/2602.07152)
 
-**Moore, H., Shah, A.** (2026).  
+**Moore, H., Shah, A.** (2025).  
 *Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing.*  
 Logical and Symbolic Reasoning in Language Models @ AAAI 2026.  
 [arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
-
----
-
-### 2024
 
 **Casper, S., Yun, J., Baek, J., Jung, Y., Kim, M., Kwon, K., Park, S., Moore, H., Shriver, D., Connor, M., Grimes, K., Nicolson, A., Tagade, A., Rumbelow, J., Nguyen, H. M., Hadfield-Menell, D.** (2024).  
 *The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability.*  
 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML).  
 [arXiv:2404.02949](https://arxiv.org/abs/2404.02949)
-
----
-
-### 2023
 
 **Sinha, A., Moore, H., VanHoudnos, N.** (2023).  
 *Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models.*  
@@ -64,30 +48,14 @@ Conference on Applied Machine Learning for Information Security (CAMLIS).
 SEI Research Review 2023.  
 [Article](https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/research-review-article.cfm?customel_datapageid_326381=495673)
 
----
-
-### 2022
-
 **Mellinger, A., et al., Moore, H.** (2022).  
 *Juneberry Version 0.5 Simulates Attacks on Machine Learning Systems.*  
 SEI Year in Review 2022.  
 [Article](https://www.sei.cmu.edu/publications/annual-reviews/2022-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=494000)
 
----
-
-### 2020
-
 **Graham, D., et al., Moore, H.** (2020).  
 *AI Collaboration Supports U.S. Army Operations.*  
 SEI Year in Review 2020.  
 [Article](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
-
----
-
-## Awards
-
-🏆 2nd Place — IEEE SaTML CNN Interpretability Competition (2024)  
-🏆 Best Paper Nominee — 28th ICCRTS (2023)  
-🎓 SEI Doctoral Scholarship — Penn State University  
 
 ---
