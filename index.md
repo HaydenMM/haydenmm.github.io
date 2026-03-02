@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Hayden M. Moore
 ---
 
 ![Hayden Moore Profile Pic](assets/profile.jpg)
-
-# Hayden M. Moore
 
 PhD Student, Computer Science & Engineering — Penn State  
 Associate Software Developer — Carnegie Mellon University Software Engineering Institute  
