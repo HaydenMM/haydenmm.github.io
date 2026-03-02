@@ -19,9 +19,6 @@ plugins:
 
 # Site navigation
 header_pages:
-  - publications.md
-  - experience.md
-  - contact.md
 
 # Google Analytics
 # google_analytics: UA-XXXXXXXX-X
