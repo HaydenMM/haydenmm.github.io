@@ -46,7 +46,7 @@ title: Hayden Moore
 
 <div class="paper">
   <div class="thumb placeholder">
-      <img src="/assets/2602.07152.png" alt="2602.07152">
+      <img src="/assets/2404.02949.png" alt="2404.02949">
   </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2602.07152">Trojans in Artificial Intelligence (TrojAI) Final Report</a></h2>
