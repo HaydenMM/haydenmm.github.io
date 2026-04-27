@@ -94,25 +94,6 @@ title: Hayden Moore
 
 ---
 
-# Selected Work
-
-<div class="entry">
-  <h2>Neurosymbolic hallucination detection</h2>
-  <p>Exploring structured reasoning pipelines that convert natural language outputs into formal or graph-based representations for verification.</p>
-</div>
-
-<div class="entry">
-  <h2>LLM data extraction and inference attacks</h2>
-  <p>Studying how memorization, rare sequences, duplicated examples, and adversarial querying affect privacy and leakage risks in language models.</p>
-</div>
-
-<div class="entry">
-  <h2>Interpretable and secure machine learning</h2>
-  <p>Researching model behavior, concept-level interpretability, adversarial robustness, and practical methods for evaluating AI systems.</p>
-</div>
-
----
-
 # Contact
 
 <div class="footer-card">
