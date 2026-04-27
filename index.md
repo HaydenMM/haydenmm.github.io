@@ -1,50 +1,119 @@
 ---
 layout: default
+title: Hayden Moore
 ---
 
-![Hayden Moore Profile Pic](assets/profile.jpg)
+<div class="intro-block">
+  <img class="profile-photo" src="{{ '/assets/profile.jpg' | relative_url }}" alt="Hayden Moore profile photo">
 
-PhD Student, Computer Science & Engineering — Penn State  
-Associate Software Developer — Carnegie Mellon University Software Engineering Institute  
+  <div>
+    <h1>Hey, I'm Hayden!</h1>
 
-Research focus: Neurosymbolic Learning, Interpretable AI, AI Security, and Formal Verification.
+    <p>
+      I am a Ph.D. student in Computer Science &amp; Engineering at Penn State and an Associate Software Developer at Carnegie Mellon University Software Engineering Institute.
+      My research focuses on neurosymbolic learning, interpretable AI, AI security, and formal verification.
+    </p>
 
-[Google Scholar](https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en&oi=ao) | 
-[LinkedIn](https://www.linkedin.com/in/hayden-moore/) | 
-[GitHub](https://github.com/HaydenMM)
+    <p>
+      I work on building more trustworthy AI systems: detecting hallucinations, understanding model behavior, evaluating robustness, and using formal or structured reasoning to make AI outputs easier to verify.
+    </p>
 
-## Publications
-
-﻿﻿Reese, K. W., Kulp-McDowall, T., Majurski, M., et al., Moore, H. (2026). \
-*Trojans in Artificial Intelligence (TrojAI) Final Report.* \
-Intelligence Advanced Research Projects Activity (IARPA). [arXiv:2602.07152](https://arxiv.org/abs/2602.07152)
-
-Moore, H., Shah, A. (2025).  
-*Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing.*  
-Logical and Symbolic Reasoning in Language Models @ AAAI 2026. [arXiv:2511.12784](https://arxiv.org/abs/2511.12784)
-
-Casper, S., et al., Moore, H. (2024).  
-*The SaTML '24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability.*  
-IEEE Conference on Secure and Trustworthy Machine Learning (SaTML). [arXiv:2404.02949](https://arxiv.org/abs/2404.02949)
-
-Sinha, A., Moore, H., VanHoudnos, N. (2023).  
-*Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models.*  
-Conference on Applied Machine Learning for Information Security (CAMLIS). [Poster](https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf)
-
-Moore, H. (2023).  
-*Adaptability of Computer Vision at the Tactical Edge: Addressing Environmental Uncertainty.*  
-28th International Command and Control Research and Technology Symposium (ICCRTS). [arXiv:2312.00269](https://arxiv.org/abs/2312.00269)
-
-Sinha, A., Moore, H., VanHoudnos, N. (2023).  
-*Leveraging Adversarial Machine Learning Techniques to Perform Query-Access Fairness Evaluations.*  
-SEI Research Review 2023. [Article](https://www.sei.cmu.edu/publications/annual-reviews/2023-research-review/research-review-article.cfm?customel_datapageid_326381=495673)
-
-Mellinger, A., et al., Moore, H. (2022).  
-*Juneberry Version 0.5 Simulates Attacks on Machine Learning Systems.*  
-SEI Year in Review 2022. [Article](https://www.sei.cmu.edu/publications/annual-reviews/2022-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=494000)
-
-Graham, D., et al., Moore, H. (2020).  
-*AI Collaboration Supports U.S. Army Operations.*  
-SEI Year in Review 2020. [Article](https://www.sei.cmu.edu/publications/annual-reviews/2020-year-in-review/year_in_review_article.cfm?customel_datapageid_315013=315523)
+    <p class="links">
+      <a href="https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en&oi=ao">Google Scholar</a>
+      <span>/</span>
+      <a href="https://www.linkedin.com/in/hayden-moore/">LinkedIn</a>
+      <span>/</span>
+      <a href="https://github.com/HaydenMM">GitHub</a>
+    </p>
+  </div>
+</div>
 
 ---
+
+# Research
+
+<div class="paper">
+  <div class="thumb placeholder">FOL</div>
+  <div>
+    <h2><a href="https://arxiv.org/abs/2511.12784">Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing</a></h2>
+    <p class="authors"><strong>Hayden Moore</strong>, A. Shah</p>
+    <p>Logical and Symbolic Reasoning in Language Models @ AAAI 2026.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2511.12784">[paper]</a></p>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="thumb placeholder">AI</div>
+  <div>
+    <h2><a href="https://arxiv.org/abs/2602.07152">Trojans in Artificial Intelligence (TrojAI) Final Report</a></h2>
+    <p class="authors">K. W. Reese, T. Kulp-McDowall, M. Majurski, et al., <strong>Hayden Moore</strong></p>
+    <p>Intelligence Advanced Research Projects Activity (IARPA), 2026.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2602.07152">[paper]</a></p>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="thumb placeholder">CNN</div>
+  <div>
+    <h2><a href="https://arxiv.org/abs/2404.02949">The SaTML '24 CNN Interpretability Competition</a></h2>
+    <p class="authors">S. Casper, et al., <strong>Hayden Moore</strong></p>
+    <p>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2404.02949">[paper]</a></p>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="thumb placeholder">SEC</div>
+  <div>
+    <h2>Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models</h2>
+    <p class="authors">A. Sinha, <strong>Hayden Moore</strong>, N. VanHoudnos</p>
+    <p>Conference on Applied Machine Learning for Information Security (CAMLIS), 2023.</p>
+    <p class="paper-links"><a href="https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf">[poster]</a></p>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="thumb placeholder">VP</div>
+  <div>
+    <h2><a href="https://arxiv.org/abs/2312.00269">Adaptability of Computer Vision at the Tactical Edge</a></h2>
+    <p class="authors"><strong>Hayden Moore</strong></p>
+    <p>28th International Command and Control Research and Technology Symposium (ICCRTS), 2023.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2312.00269">[paper]</a></p>
+  </div>
+</div>
+
+---
+
+# Selected Work
+
+<div class="entry">
+  <h2>Neurosymbolic hallucination detection</h2>
+  <p>Exploring structured reasoning pipelines that convert natural language outputs into formal or graph-based representations for verification.</p>
+</div>
+
+<div class="entry">
+  <h2>LLM data extraction and inference attacks</h2>
+  <p>Studying how memorization, rare sequences, duplicated examples, and adversarial querying affect privacy and leakage risks in language models.</p>
+</div>
+
+<div class="entry">
+  <h2>Interpretable and secure machine learning</h2>
+  <p>Researching model behavior, concept-level interpretability, adversarial robustness, and practical methods for evaluating AI systems.</p>
+</div>
+
+---
+
+# Contact
+
+<div class="footer-card">
+  <h2>Hayden Moore</h2>
+  <p>Ph.D. Student, Computer Science &amp; Engineering — Penn State</p>
+  <p>Associate Software Developer — Carnegie Mellon University Software Engineering Institute</p>
+  <p class="links">
+    <a href="https://github.com/HaydenMM">github.com/HaydenMM</a>
+    <span>/</span>
+    <a href="https://www.linkedin.com/in/hayden-moore/">LinkedIn</a>
+    <span>/</span>
+    <a href="https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en&oi=ao">Google Scholar</a>
+  </p>
+</div>
