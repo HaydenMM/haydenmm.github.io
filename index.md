@@ -58,7 +58,7 @@ title: Hayden Moore
 
 <div class="paper">
   <div class="thumb placeholder">
-      <img src="/assets/2404.02949.png" alt="2404.02949">
+      <img src="/assets/2601.07152.png" alt="2601.07152">
   </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2404.02949">The SaTML '24 CNN Interpretability Competition</a></h2>
