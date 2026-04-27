@@ -34,7 +34,7 @@ title: Hayden Moore
 
 <div class="paper">
   <div class="thumb placeholder">
-      <img src="/assets/images/ai_project.png" alt="AI Project">
+      <img src="/assets/images/2511.12784.png" alt="2511.12784">
   </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2511.12784">Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing</a></h2>
