@@ -73,7 +73,7 @@ title: Hayden Moore
       <img src="/assets/CAMLIS2023.png" alt="CAMLIS2023">
   </div>
   <div>
-    <h2>Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models</h2>
+    <h2><a href="https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf">Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models</a></h2>
     <p class="authors">A. Sinha, <strong>Hayden Moore</strong>, N. VanHoudnos</p>
     <p>Conference on Applied Machine Learning for Information Security (CAMLIS), 2023.</p>
     <p class="paper-links"><a href="https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf">[poster]</a></p>
