@@ -33,7 +33,9 @@ title: Hayden Moore
 # Research
 
 <div class="paper">
-  <div class="thumb placeholder">FOL</div>
+  <div class="thumb placeholder">
+      <img src="/assets/images/ai_project.png" alt="AI Project">
+  </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2511.12784">Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing</a></h2>
     <p class="authors"><strong>Hayden Moore</strong>, A. Shah</p>
@@ -43,7 +45,9 @@ title: Hayden Moore
 </div>
 
 <div class="paper">
-  <div class="thumb placeholder">AI</div>
+  <div class="thumb placeholder">
+      <img src="/assets/images/2602.07152.png" alt="2602.07152">
+  </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2602.07152">Trojans in Artificial Intelligence (TrojAI) Final Report</a></h2>
     <p class="authors">K. W. Reese, T. Kulp-McDowall, M. Majurski, et al., <strong>Hayden Moore</strong></p>
@@ -53,7 +57,9 @@ title: Hayden Moore
 </div>
 
 <div class="paper">
-  <div class="thumb placeholder">CNN</div>
+  <div class="thumb placeholder">
+      <img src="/assets/images/2404.02949.png" alt="2404.02949">
+  </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2404.02949">The SaTML '24 CNN Interpretability Competition</a></h2>
     <p class="authors">S. Casper, et al., <strong>Hayden Moore</strong></p>
@@ -63,7 +69,9 @@ title: Hayden Moore
 </div>
 
 <div class="paper">
-  <div class="thumb placeholder">SEC</div>
+  <div class="thumb placeholder">
+      <img src="/assets/images/CAMLIS2023.png" alt="CAMLIS2023">
+  </div>
   <div>
     <h2>Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models</h2>
     <p class="authors">A. Sinha, <strong>Hayden Moore</strong>, N. VanHoudnos</p>
@@ -73,7 +81,9 @@ title: Hayden Moore
 </div>
 
 <div class="paper">
-  <div class="thumb placeholder">VP</div>
+  <div class="thumb placeholder">
+      <img src="/assets/images/2312.00269.png" alt="2312.00269">
+  </div>
   <div>
     <h2><a href="https://arxiv.org/abs/2312.00269">Adaptability of Computer Vision at the Tactical Edge</a></h2>
     <p class="authors"><strong>Hayden Moore</strong></p>
