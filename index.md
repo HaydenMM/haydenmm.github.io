@@ -99,8 +99,8 @@ title: Hayden Moore
 <div class="awards">
 
   <div class="award">
-    <span class="award-title">SEI Scholars Program</span>
-    <span class="award-desc">PhD Sponsorship while full-time employee at Software Engineering Institute</span>
+    <span class="award-title">2024 SEI Scholars Program</span>
+    <span class="award-desc">PhD Sponsorship</span>
   </div>
 
   <div class="award">
