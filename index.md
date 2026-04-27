@@ -94,6 +94,29 @@ title: Hayden Moore
 
 ---
 
+# Awards
+
+<div class="awards">
+
+  <div class="award">
+    <span class="award-title">SEI Scholars Program</span>
+    <span class="award-desc">PhD Sponsorship while full-time employee at Software Engineering Institute</span>
+  </div>
+
+  <div class="award">
+    <span class="award-title">SaTML '24 CNN Interpretability Competition</span>
+    <span class="award-desc">2nd Place Overall</span>
+  </div>
+
+  <div class="award">
+    <span class="award-title">28th ICCRTS (2023)</span>
+    <span class="award-desc">Best Paper Nominee</span>
+  </div>
+
+</div>
+
+---
+
 # Contact
 
 <div class="footer-card">
