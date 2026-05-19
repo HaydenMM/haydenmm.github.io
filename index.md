@@ -34,6 +34,18 @@ title: Hayden Moore
 
 <div class="paper">
   <div class="thumb placeholder">
+      <img src="/assets/2605.17911.png" alt="2605.17911">
+  </div>
+  <div>
+    <h2><a href="https://arxiv.org/abs/2605.17911">A Pilot Benchmark for NL-to-FOL Translation in Planetary Exploration</a></h2>
+    <p class="authors"><strong>Hayden Moore</strong>, Suman Saha, and Mahfuza Farooque</p>
+    <p>Workshop on Perceptual Challenges for Planetary Exploration @ ICRA 2026.</p>
+    <p class="paper-links"><a href="https://arxiv.org/abs/2605.17911">[paper]</a></p>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="thumb placeholder">
       <img src="/assets/2511.12784.png" alt="2511.12784">
   </div>
   <div>
