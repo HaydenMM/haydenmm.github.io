@@ -40,7 +40,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2605.17911">A Pilot Benchmark for NL-to-FOL Translation in Planetary Exploration</a></h2>
     <p class="authors"><strong>Hayden Moore</strong>, S. Saha, and M. Farooque</p>
     <p>Workshop on Perceptual Challenges for Planetary Exploration @ ICRA 2026.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2605.17911">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2605.17911">[paper]</a></p>
   </div>
 </div>
 
@@ -52,7 +52,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2511.12784">Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing</a></h2>
     <p class="authors"><strong>Hayden Moore</strong>, A. Shah</p>
     <p>Logical and Symbolic Reasoning in Language Models @ AAAI 2026.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2511.12784">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2511.12784">[paper]</a></p>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2602.07152">Trojans in Artificial Intelligence (TrojAI) Final Report</a></h2>
     <p class="authors">K. W. Reese, T. Kulp-McDowall, M. Majurski, et al., <strong>Hayden Moore</strong></p>
     <p>Intelligence Advanced Research Projects Activity (IARPA), 2026.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2602.07152">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2602.07152">[paper]</a></p>
   </div>
 </div>
 
@@ -76,7 +76,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2404.02949">The SaTML '24 CNN Interpretability Competition</a></h2>
     <p class="authors">S. Casper, et al., <strong>Hayden Moore</strong></p>
     <p>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2404.02949">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2404.02949">[paper]</a></p>
   </div>
 </div>
 
@@ -100,7 +100,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2312.00269">Adaptability of Computer Vision at the Tactical Edge</a></h2>
     <p class="authors"><strong>Hayden Moore</strong></p>
     <p>28th International Command and Control Research and Technology Symposium (ICCRTS), 2023.</p>
-    <p class="paper-links"><a href="https://arxiv.org/abs/2312.00269">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2312.00269">[paper]</a></p>
   </div>
 </div>
 
