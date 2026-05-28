@@ -21,6 +21,8 @@ title: Hayden Moore
     <p class="links">
       <a href="https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en&oi=ao">Google Scholar</a>
       <span>/</span>
+      <a href="https://www.semanticscholar.org/author/Hayden-Moore/2269148429">Semantic Scholar</a>
+      <span>/</span>
       <a href="https://www.linkedin.com/in/hayden-moore/">LinkedIn</a>
       <span>/</span>
       <a href="https://github.com/HaydenMM">GitHub</a>
