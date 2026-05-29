@@ -43,6 +43,7 @@ title: Hayden Moore
     <p class="authors"><strong>Hayden Moore</strong>, S. Saha, and M. Farooque</p>
     <p>Workshop on Perceptual Challenges for Planetary Exploration @ ICRA 2026.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2605.17911">[paper]</a></p>
+    <p class="paper-links"><a href="/planetary-logic-benchmark">[info]</a></p>
   </div>
 </div>
 
