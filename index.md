@@ -2,7 +2,7 @@
 layout: default
 title: Hayden Moore
 ---
-[Planetary Logic Benchmark](/planetary-logic-benchmark/)
+
 <div class="intro-block">
   <img class="profile-photo" src="{{ '/assets/profile.jpg' | relative_url }}" alt="Hayden Moore profile photo">
 
