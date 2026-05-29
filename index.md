@@ -32,7 +32,7 @@ title: Hayden Moore
 
 ---
 
-# Research
+# Publications
 
 <div class="paper">
   <div class="thumb placeholder">
