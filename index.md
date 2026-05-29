@@ -43,6 +43,7 @@ title: Hayden Moore
     <p class="authors"><strong>Hayden Moore</strong>, S. Saha, and M. Farooque</p>
     <p>Workshop on Perceptual Challenges for Planetary Exploration @ ICRA 2026.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2605.17911">[paper]</a></p>
+    <span>📚 Citations: 0</span>
   </div>
 </div>
 
@@ -55,6 +56,7 @@ title: Hayden Moore
     <p class="authors"><strong>Hayden Moore</strong>, A. Shah</p>
     <p>Logical and Symbolic Reasoning in Language Models @ AAAI 2026.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2511.12784">[paper]</a></p>
+    <span>📚 Citations: 2</span>
   </div>
 </div>
 
@@ -67,6 +69,7 @@ title: Hayden Moore
     <p class="authors">K. W. Reese, T. Kulp-McDowall, M. Majurski, et al., <strong>Hayden Moore</strong></p>
     <p>Intelligence Advanced Research Projects Activity (IARPA), 2026.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2602.07152">[paper]</a></p>
+    <span>📚 Citations: 1</span>
   </div>
 </div>
 
@@ -79,6 +82,7 @@ title: Hayden Moore
     <p class="authors">S. Casper, et al., <strong>Hayden Moore</strong></p>
     <p>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2404.02949">[paper]</a></p>
+    <span>📚 Citations: 6</span>
   </div>
 </div>
 
@@ -103,6 +107,7 @@ title: Hayden Moore
     <p class="authors"><strong>Hayden Moore</strong></p>
     <p>28th International Command and Control Research and Technology Symposium (ICCRTS), 2023.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2312.00269">[paper]</a></p>
+    <span>📚 Citations: 1</span>
   </div>
 </div>
 
