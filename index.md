@@ -42,7 +42,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2605.17911">A Pilot Benchmark for NL-to-FOL Translation in Planetary Exploration</a></h2>
     <p class="authors"><strong>Hayden Moore</strong>, S. Saha, and M. Farooque</p>
     <p>Workshop on Perceptual Challenges for Planetary Exploration @ ICRA 2026.</p>
-    <p class="paper-links"><a href="https://arxiv.org/pdf/2605.17911">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2605.17911">[paper]</a> <a href="https://icra2026-planetary-robotics.github.io">[conference]</a></p>
   </div>
 </div>
 
@@ -54,7 +54,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2511.12784">Evaluating Autoformalization Robustness via Semantically Similar Paraphrasing</a></h2>
     <p class="authors"><strong>Hayden Moore</strong>, A. Shah</p>
     <p>Logical and Symbolic Reasoning in Language Models @ AAAI 2026.</p>
-    <p class="paper-links"><a href="https://arxiv.org/pdf/2511.12784">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2511.12784">[paper]</a> <a href="https://sites.google.com/view/aaai-2026-lmreasoning">[conference]</a></p>
   </div>
 </div>
 
@@ -78,7 +78,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2404.02949">The SaTML '24 CNN Interpretability Competition</a></h2>
     <p class="authors">S. Casper, et al., <strong>Hayden Moore</strong></p>
     <p>IEEE Conference on Secure and Trustworthy Machine Learning (SaTML), 2024.</p>
-    <p class="paper-links"><a href="https://arxiv.org/pdf/2404.02949">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2404.02949">[paper]</a> <a href="https://benchmarking-interpretability.csail.mit.edu/challenges-and-prizes/">[conference]</a></p>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ title: Hayden Moore
     <h2><a href="https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf">Understanding Bias Transfer from Foundational Models to Fine-tuned Child Models</a></h2>
     <p class="authors">A. Sinha, <strong>Hayden Moore</strong>, N. VanHoudnos</p>
     <p>Conference on Applied Machine Learning for Information Security (CAMLIS), 2023.</p>
-    <p class="paper-links"><a href="https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf">[poster]</a></p>
+    <p class="paper-links"><a href="https://github.com/HaydenMM/Research/blob/main/CAMLIS2023_CR_poster.pdf">[poster]</a> <a href="https://www.camlis.org/">[conference]</a></p>
   </div>
 </div>
 
@@ -102,7 +102,7 @@ title: Hayden Moore
     <h2><a href="https://arxiv.org/abs/2312.00269">Adaptability of Computer Vision at the Tactical Edge</a></h2>
     <p class="authors"><strong>Hayden Moore</strong></p>
     <p>28th International Command and Control Research and Technology Symposium (ICCRTS), 2023.</p>
-    <p class="paper-links"><a href="https://arxiv.org/pdf/2312.00269">[paper]</a></p>
+    <p class="paper-links"><a href="https://arxiv.org/pdf/2312.00269">[paper]</a> <a href="https://internationalc2institute.org/28th-iccrts-information-central">[conference]</a></p>
   </div>
 </div>
 
