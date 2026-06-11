@@ -108,13 +108,6 @@ title: Hayden Moore
 
 <div class="footer-card">
   <h2>Hayden Moore</h2>
-  <p>Ph.D. Student, Computer Science &amp; Engineering — Penn State</p>
-  <p>Associate Software Developer — Carnegie Mellon University Software Engineering Institute</p>
-  <p class="links">
-    <a href="https://github.com/HaydenMM">github.com/HaydenMM</a>
-    <span>/</span>
-    <a href="https://www.linkedin.com/in/hayden-moore/">LinkedIn</a>
-    <span>/</span>
-    <a href="https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en&oi=ao">Google Scholar</a>
-  </p>
+  <p>Ph.D. Student, Computer Science &amp; Engineering — Penn State, (hmm5731@psu.edu)</p>
+  <p>Associate Software Developer — Carnegie Mellon University Software Engineering Institute, (hmmoore@sei.cmu.edu)</p>
 </div>
