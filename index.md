@@ -14,10 +14,6 @@ title: Hayden Moore
       My research focuses on neurosymbolic learning, interpretable AI, AI security, and formal verification.
     </p>
 
-    <p>
-      I work on building more trustworthy AI systems: detecting hallucinations, understanding model behavior, evaluating robustness, and using formal or structured reasoning to make AI outputs easier to verify.
-    </p>
-
     <p class="links">
       <a href="https://scholar.google.com/citations?user=t7r6fiEAAAAJ&hl=en&oi=ao">Google Scholar</a>
       <span>/</span>
@@ -104,29 +100,6 @@ title: Hayden Moore
     <p>28th International Command and Control Research and Technology Symposium (ICCRTS), 2023.</p>
     <p class="paper-links"><a href="https://arxiv.org/pdf/2312.00269">[paper]</a> <a href="https://internationalc2institute.org/28th-iccrts-information-central">[conference]</a></p>
   </div>
-</div>
-
----
-
-# Awards
-
-<div class="awards">
-
-  <div class="award">
-    <span class="award-title">2024 SEI Scholars Program</span>
-    <span class="award-desc">PhD Sponsorship</span>
-  </div>
-
-  <div class="award">
-    <span class="award-title">SaTML '24 CNN Interpretability Competition</span>
-    <span class="award-desc">2nd Place Overall</span>
-  </div>
-
-  <div class="award">
-    <span class="award-title">28th ICCRTS (2023)</span>
-    <span class="award-desc">Best Paper Nominee</span>
-  </div>
-
 </div>
 
 ---
