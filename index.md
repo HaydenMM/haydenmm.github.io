@@ -2,9 +2,6 @@
 layout: default
 title: Hayden Moore
 ---
-<a href="./distill_paraphrase_unlearning/">
-  Distillation + Paraphrasing Further Robustifies Unlearning
-</a>
 
 <div class="intro-block">
   <img class="profile-photo" src="{{ '/assets/profile.jpg' | relative_url }}" alt="Hayden Moore profile photo">
