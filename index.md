@@ -2,7 +2,7 @@
 layout: default
 title: Hayden Moore
 ---
-<a href="./distill-paraphrase-unlearning/">
+<a href="./distill_paraphrase_unlearning/">
   Distillation + Paraphrasing Further Robustifies Unlearning
 </a>
 
