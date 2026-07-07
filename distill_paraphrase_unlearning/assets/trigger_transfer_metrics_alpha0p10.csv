@@ -1,0 +1,7 @@
+model,FTR,ASR,Pred trig clean,Pred trig trig
+Teacher triggered,0.013,1.0,0.013,0.025
+Raw student,0.062,0.562,0.013,0.075
+Teacher after unlearning,0.0,0.075,0.0,0.062
+Ours: strict paraphrase,0.0,0.013,0.013,0.1
+UNDO init,0.013,0.375,0.0,0.075
+UNDO final,0.013,0.212,0.013,0.062
