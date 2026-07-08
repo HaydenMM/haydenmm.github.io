@@ -1,6 +1,6 @@
 # Distillation + Paraphrasing Further Robustifies Unlearning
 
-Static GitHub Pages report for the benign trigger-transfer experiment comparing raw distillation, UNDO, and strict paraphrase-distillation.
+trigger-transfer experiment comparing raw distillation, UNDO, and strict paraphrase-distillation.
 
 ## Files
 
