@@ -33,6 +33,18 @@ title: Hayden Moore
 
 <div class="paper">
   <div class="thumb placeholder">
+      <img src="/assets/uncertainlp.png" alt="uncertainlp">
+  </div>
+  <div>
+    <h2><a href="https://aclanthology.org/2026.uncertainlp-main.40.pdf">Tracing Recurrent and Emergent Hallucination Patterns in Decomposed Text-to-SQL Generation</a></h2>
+    <p class="authors"><strong>Hayden Moore</strong>, A. Verma, and A. Dutt</p>
+    <p>The Third Workshop on Uncertainty-Aware NLP @ EMNLP 2026.</p>
+    <p class="paper-links"><a href="https://aclanthology.org/2026.uncertainlp-main.40.pdf">[paper]</a> <a href="https://uncertainlp.github.io/2026/accepted-papers">[conference]</a></p>
+  </div>
+</div>
+
+<div class="paper">
+  <div class="thumb placeholder">
       <img src="/assets/2605.17911.png" alt="2605.17911">
   </div>
   <div>
