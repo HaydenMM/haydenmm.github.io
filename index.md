@@ -33,7 +33,7 @@ title: Hayden Moore
 
 <div class="paper">
   <div class="thumb placeholder">
-      <img src="/assets/uncertainlp.png" alt="uncertainlp">
+      <img src="/assets/uncertaiNLP.png" alt="uncertainlp">
   </div>
   <div>
     <h2><a href="https://aclanthology.org/2026.uncertainlp-main.40.pdf">Tracing Recurrent and Emergent Hallucination Patterns in Decomposed Text-to-SQL Generation</a></h2>
